@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exemplo>
+	<pessoa>
+		<nome>
+			Juliano
+		</nome>
+		<sobrenome>
+			Amaral
+		</sobrenome>
+		<email>
+			gomesadler@hotmail.com
+		</email>
+	</pessoa>
+
+	<pessoa>
+		<nome>
+			Juliano
+		</nome>
+		<sobrenome>
+			Amaral
+		</sobrenome>
+		<email>
+			gomesadler@hotmail.com
+		</email>
+	</pessoa>
+
+	<pessoa>
+		<nome>
+			Juliano
+		</nome>
+		<sobrenome>
+			Amaral
+		</sobrenome>
+		<email>
+			gomesadler@hotmail.com
+		</email>
+	</pessoa>
+</exemplo>
